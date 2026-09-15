@@ -5,7 +5,7 @@ have actually been completed, so it always shows exactly what's owed to
 each salesman, technician, and owner. Scheduled/upcoming jobs are not
 added until they're done.
 
-**Sheet:** https://docs.google.com/spreadsheets/d/1AdEFk_miiT0dFnKK3F6z0rweaOOhRGEoEGvRX7IatZ4/edit
+**Sheet:** https://docs.google.com/spreadsheets/d/1XuqFEKQ3CcaifvcHo-UAQSmGJjsJLBXG4EjOnsFz5ws/edit
 
 > Note: until the Google Sheets connection is authenticated (cell-level
 > edits), each update recreates the file and this link changes. Check here
