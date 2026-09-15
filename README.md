@@ -3,7 +3,11 @@
 We track every job's commission split in a Google Sheet, synced from Flyra
 (our CRM/scheduling system) on request rather than as standalone app code.
 
-**Sheet:** https://docs.google.com/spreadsheets/d/1AWCvXBNPqZ2gIZkdvKqPEDw2JFW6t8n0NtPDwpsP8Ws/edit
+**Sheet:** https://docs.google.com/spreadsheets/d/1Rse8siQllw6pqE35rYkMJEU63qKNAOorvapawdh70hs/edit
+
+> Note: until the Google Sheets connection is authenticated (cell-level
+> edits), each update recreates the file and this link changes. Check here
+> for the current link if an old one stops working.
 
 ## What it tracks
 
