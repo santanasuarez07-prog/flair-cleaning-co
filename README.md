@@ -1,9 +1,11 @@
 # Flair Cleaning Co — Commission Tracker
 
-We track every job's commission split in a Google Sheet, synced from Flyra
-(our CRM/scheduling system) on request rather than as standalone app code.
+This is a **payables ledger, not a schedule**: it only contains jobs that
+have actually been completed, so it always shows exactly what's owed to
+each salesman, technician, and owner. Scheduled/upcoming jobs are not
+added until they're done.
 
-**Sheet:** https://docs.google.com/spreadsheets/d/1Rse8siQllw6pqE35rYkMJEU63qKNAOorvapawdh70hs/edit
+**Sheet:** https://docs.google.com/spreadsheets/d/1AdEFk_miiT0dFnKK3F6z0rweaOOhRGEoEGvRX7IatZ4/edit
 
 > Note: until the Google Sheets connection is authenticated (cell-level
 > edits), each update recreates the file and this link changes. Check here
@@ -11,13 +13,13 @@ We track every job's commission split in a Google Sheet, synced from Flyra
 
 ## What it tracks
 
-One row per job (deal), grouped by day (the date is only shown on the first
-job of each day; later jobs that day just show the time):
+One row per completed job (deal), grouped by day (the date is only shown
+on the first job of each day; later jobs that day just show the time):
 
 - Customer first/last name, phone, address
-- Time of the job and its status
+- Time of the job
 - Price
-- Salesman and technician assigned to the job
+- Salesman and technician who worked the job
 - Computed commission split
 
 ## Commission formula
@@ -30,12 +32,10 @@ job of each day; later jobs that day just show the time):
   between Santana and Will.
 
 This always sums to 100% of the job price, whatever technician rate applies.
-Cancelled jobs are listed for visibility but excluded from commission
-totals.
 
 ## Keeping it up to date
 
-The sheet is not live-synced. When new jobs need to be pulled in from Flyra,
-ask Claude to refresh it — it re-reads the current sheet, adds new/changed
-jobs from Flyra by matching on the "Flyra Job ID" column, and leaves any
-technician/rate you've already filled in untouched.
+Jobs are added by telling Claude which jobs got completed (customer, price,
+day/time) — Claude cross-references Flyra for the customer/job details and
+appends the row. Nothing is added automatically from Flyra's schedule; a
+job only lands here once it's actually done.
