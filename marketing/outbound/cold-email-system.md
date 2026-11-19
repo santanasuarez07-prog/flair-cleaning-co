@@ -18,6 +18,18 @@ personality. So we **test emotional angles, not generic subject lines.**
 Talk to them **peer to peer**: confident, never begging, no "I'd be so
 grateful". We're the expert they need, not the other way around.
 
+### Chosen voice (2026-11-19): Angle B, "Honest Pro"
+Santana picked **Angle B**. We have **no commercial clients yet**, so the status
+comes only from true things:
+- Owner-run, based in Granite Bay, **100+ local homes** served, real 5★ reviews
+- A clear process: set schedule, **text the day before**, **before/after photos after every visit**
+- Real scarcity: **"opening our first business route, taking 5 founding clients"**,
+  with a **founding rate locked for 12 months**
+
+Never say or imply: "we service X businesses", "our commercial clients",
+"we already do the plaza", invented spot counts or fake forwards.
+Once real business clients sign on, add them as proof (with permission).
+
 ## Step 2: Pick a framework (all four adapted to exterior cleaning)
 
 Local service has an edge an agency never has: **we can physically look at
