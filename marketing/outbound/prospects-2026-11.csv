@@ -17,3 +17,24 @@ id,business,segment,city,address,phone,contact_route,status,first_touch,last_tou
 16,Peet's Coffee (Quarry Ponds),storefront,Granite Bay,5550 Douglas Blvd,,walk-in,researched,,,walk in,,,,chain: may need corporate vendor approval
 17,Oak Leaf Cafe / Capitol Cellars (Quarry Ponds),storefront,Granite Bay,5550 Douglas Blvd,,walk-in,researched,,,walk in,,,,
 18,Granite Bay Town Center tenants (Ace Hardware anchor),storefront center,Granite Bay,8731-8799 Auburn Folsom Rd,,walk-in,researched,,,walk in,,,,
+19,Make A Smile Dental / S. Jang DDS,dental,Granite Bay,4060 Douglas Blvd Ste 110A,916-260-0646,email/walk-in,researched,,,send T1,,,,wave2
+20,Dr. Jerry Martin DDS,dental,Granite Bay,4150 Douglas Blvd #A,916-791-2733,email/walk-in,researched,,,send T1,,,,wave2
+21,Zanzi Dental Group,dental,Granite Bay,6910 Douglas Blvd Ste F,,email/walk-in,researched,,,send T1,,,,wave2
+22,Dr. Colby Smith DDS,dental,Granite Bay,7060 Douglas Blvd,,email/walk-in,researched,,,send T1,,,,wave2
+23,Granite Bay Golf Club,club,Granite Bay,9600 Golf Club Dr,916-791-7578,call facilities/GM,researched,,,send T2,,,,wave2
+24,Silvercreek Association Management,HOA mgmt,Rocklin,5701 Lonetree Blvd #217,,email,researched,,,send T2,,,,wave2
+25,TRI Property Management Services,commercial PM,Rocklin,,,email,researched,,,send T2,,,,wave2
+26,Brower Mechanical,home services,Rocklin,4060 Alvis Ct,,email,researched,,,send T3,,,,wave2
+27,High Hand Cafe,storefront,Loomis,3750 Taylor Rd,,walk-in,researched,,,verify open + T1,,,,wave2
+28,Taylor's,storefront,Loomis,3636 Taylor Rd,,walk-in,researched,,,verify open + T1,,,,wave2
+29,Ugly Mug Cafe,storefront,Loomis,3589 Taylor Rd,,walk-in,researched,,,verify open + T1,,,,wave2
+30,LBB Gastropub & Smokehouse,storefront,Loomis,Taylor Rd,,walk-in,researched,,,verify open + T1,,,,wave2
+31,The Feathered Nest,storefront,Loomis,Taylor Rd,,walk-in,researched,,,verify open + T1,,,,wave2
+32,Folsom Historic District Association,association,Folsom,Sutter St,,historicfolsom.org (Karen Holmes),researched,,,send T4,,,,wave2
+33,Karen's Bakery,storefront,Folsom,Sutter St,,walk-in,researched,,,T1,,,,wave2
+34,Town Center Management Group (EDH Town Center),center,El Dorado Hills,Town Center Blvd,,leasing contact,researched,,,send T2,,,,wave2
+35,ProEquity Asset Management,commercial PM,El Dorado Hills,,,email,researched,,,send T2,,,,wave2
+36,El Dorado Hills Chamber of Commerce,association,El Dorado Hills,,,eldoradohillschamber.org,researched,,,send T4,,,,wave2
+37,Old Town Auburn Business Association,association,Auburn,1583 Lincoln Way,(530) 888-1585,oldtownauburnca.com,researched,,,send T4,,,,wave2
+38,Auburn Downtown Business Association,association,Auburn,,,auburn.ca.gov/35/Business,researched,,,send T4,,,,wave2
+39,Auburn Chamber of Commerce,association,Auburn,1103 High St Ste 100,,email,researched,,,send T4,,,,wave2
