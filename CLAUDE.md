@@ -78,6 +78,19 @@ current champion (hook, offer, CTA, length, send time, channel).
 - Deliverability: 5 to 10 cold emails/day per inbox in week 1, ramp to 30 to 40 max; plain text, no images/attachments until they reply, 0 to 1 links, bounces < 2%. Send from Workspace on a secondary domain with SPF/DKIM/DMARC, never a personal Gmail.
 - Proofread every email; a typo costs trust.
 
+## Daily report (runs every evening, 6:43 PM Pacific)
+Write `marketing/reports/daily/YYYY-MM-DD.md` from `marketing/reports/daily/TEMPLATE.md`, then commit + push:
+1. **Cold email (Gmail, contact@flaircleaningcompany.com):** every cold email carries the footer
+   phrase "won't email again", so `in:sent "won't email again"` = all cold sends. Count today's
+   sends; a thread with an inbound message from the prospect = a reply. Match subject → variant
+   using `marketing/outbound/cold-email-tests.csv` and update that row (sent date, replied, reply
+   type, booked). Report reply rate per variant (cumulative) vs. targets (reply > 6%, book > 2%).
+2. **Follow-ups due:** list prospects needing FU1 (day 3) or FU2 (day 7) tomorrow; draft them in Gmail (never send).
+3. **Flyra:** leads today (`flyra_leads_report`), jobs created today (`flyra_search_jobs since`),
+   inbound texts awaiting reply, blast replies/opt-outs, SMS credits, which MKT automations are on.
+4. **Verdict + next step:** which variant is leading, whether a winner can be called (25+ sends
+   each), and the one action for tomorrow. Keep it short; it's read on a phone.
+
 ## Getting better (creative engine)
 - Rotate hooks: local/seasonal ("first big rain"), neighbor proof ("we just did
   3 homes on your street"), loss aversion (gutter damage, solar output),
