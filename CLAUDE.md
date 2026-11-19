@@ -111,6 +111,12 @@ Write `marketing/reports/daily/YYYY-MM-DD.md` from `marketing/reports/daily/TEMP
 4. **Verdict + next step:** which variant is leading, whether a winner can be called (25+ sends
    each), and the one action for tomorrow. Keep it short; it's read on a phone.
 
+## Reverse-engineering (whenever Santana shares an ad, reel, email or competitor)
+Use `marketing/reverse-engineering.md`: break it down (hook, pull, angle, proof, offer, CTA, format),
+adapt one version per channel, test it as a challenger, save the breakdown in `marketing/swipes/`.
+Instagram is unreachable from this environment: ask for the video file (analyze with Higgsfield
+video analysis), the caption, or a description. Never claim to have watched something you couldn't open.
+
 ## Getting better (creative engine)
 - Rotate hooks: local/seasonal ("first big rain"), neighbor proof ("we just did
   3 homes on your street"), loss aversion (gutter damage, solar output),
