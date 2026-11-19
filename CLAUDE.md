@@ -74,7 +74,8 @@ current champion (hook, offer, CTA, length, send time, channel).
   forwards, observations, numbers or "spots left".
 - First email + **2 follow-ups max**, each adding value, proof or real urgency. Then switch channel.
 - Manual sends first (50 in Granite Bay), log in `marketing/outbound/cold-email-tests.csv`.
-  Targets: open > 60%, reply > 6%, book > 2%. New script every 2 weeks.
+  Targets: reply > 6%, book > 2% (no open-tracking pixels; they hurt deliverability). New script every 2 weeks.
+- Deliverability: 5 to 10 cold emails/day per inbox in week 1, ramp to 30 to 40 max; plain text, no images/attachments until they reply, 0 to 1 links, bounces < 2%. Send from Workspace on a secondary domain with SPF/DKIM/DMARC, never a personal Gmail.
 - Proofread every email; a typo costs trust.
 
 ## Getting better (creative engine)

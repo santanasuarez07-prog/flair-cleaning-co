@@ -122,7 +122,7 @@ channel: walk in, call, or message them on Instagram, Facebook or LinkedIn.
 ## North-star metrics
 | Metric | Target | Notes |
 |---|---|---|
-| Open rate | > 60% | Gmail doesn't track opens; use a tracker (e.g., Mailtrack/Streak) or skip and judge by replies |
+| Open rate | (skip) | open-tracking pixels hurt deliverability; judge by replies |
 | Reply rate | > 6% | any human reply, even "no thanks" |
 | Book rate | > 2% | walkthrough, free test clean or meeting booked |
 | Local bonus | | walk-in conversations and free cleans → recurring route |
@@ -136,3 +136,51 @@ one angle means the angle is wrong, not the subject line.
 - Whenever you drive past a business with dirty glass or packed gutters,
   snap a photo and add them to the prospect list on the spot. That's an F1
   email ready to send.
+
+## Deliverability: how many per day without landing in spam
+
+### Daily send limits (per inbox, cold email)
+| Week | Cold emails/day | Notes |
+|---|---|---|
+| 1 | **5 to 10** | Also email 5+ real contacts (vendors, friends) and get replies |
+| 2 | 15 | only if bounces < 2% and no spam complaints |
+| 3 | 20 to 25 | |
+| 4+ | **30 to 40 max** | the ceiling, stay here |
+
+Need more volume? **Add a second inbox** (e.g., `santana@` + `will@`), don't
+push one inbox harder. Our plan (50/week, 10 per weekday) fits week 1 exactly.
+
+### Set up before the first send
+1. **Send from a real business inbox**, Google Workspace on our domain,
+   never a personal @gmail.com (consumer Gmail gets flagged fast for cold sending).
+2. **Protect the main domain:** cold-send from a second domain (e.g.,
+   `flaircleaningco.com` or `getflaircleaning.com`) that redirects to the
+   website. If it gets dinged, invoices and receipts on the main domain stay safe.
+   Let a brand-new domain sit 2 weeks while warming up before cold sends.
+3. **SPF, DKIM and DMARC** records on the sending domain (Google Workspace
+   Admin → Apps → Gmail → Authenticate email; DMARC `p=none` to start).
+   Google and Yahoo now require these.
+4. A real signature with name, phone, website and the street address.
+
+### Writing rules that keep you out of spam
+- **Plain text only.** No images, attachments or HTML in the first email.
+  Send photos and videos **after they reply** (this is why F1/F4 ask "want me to send it?").
+- **0 to 1 links** in the first email, and no link shorteners.
+- **No open-tracking pixel.** It hurts deliverability. Judge results by
+  **reply rate** (target > 6%) instead of open rate.
+- Write each email for one person; no identical blasts. A personal line per business.
+- Easy on spam words: "FREE!!!", "act now", "guarantee", ALL CAPS, `$$$`.
+  "I'll clean your front glass once at no charge" beats "FREE CLEANING!"
+- Opt-out line in every email ("Reply 'no thanks' and I won't email again"),
+  and honor it the same day.
+
+### Sending habits
+- Space sends **3 to 10 minutes apart**, during business hours (Tue to Thu, 8 to 11 AM is best).
+- **Verify addresses**: use emails listed on their own website or Google
+  profile. Skip guessed addresses. Keep bounces **under 2%**; if 2 of 10 bounce,
+  stop and clean the list.
+- Keep spam complaints under **0.1%** (Google's hard limit is 0.3%).
+- Reply fast to every response; real two-way threads raise your reputation.
+- Watch for warning signs: replies dropping to zero, bounces with
+  "blocked"/"policy" messages. Pause 3 to 5 days and send fewer.
+- Max **3 emails per prospect**, ever (already our rule).
