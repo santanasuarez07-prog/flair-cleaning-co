@@ -77,6 +77,9 @@ current champion (hook, offer, CTA, length, send time, channel).
   Targets: reply > 6%, book > 2% (no open-tracking pixels; they hurt deliverability). New script every 2 weeks.
 - Deliverability: 5 to 10 cold emails/day per inbox in week 1, ramp to 30 to 40 max; plain text, no images/attachments until they reply, 0 to 1 links, bounces < 2%. Send from Workspace on a secondary domain with SPF/DKIM/DMARC, never a personal Gmail.
 - Proofread every email; a typo costs trust.
+- **Self-review every email** with the 10-point checklist in `marketing/outbound/copy-review.md`
+  (send at 9/10 or better). After each rewrite or test result, log what was wrong, what changed
+  and what to watch, then apply those lessons to the next batch.
 
 ## Daily report (runs every evening, 6:43 PM Pacific)
 Write `marketing/reports/daily/YYYY-MM-DD.md` from `marketing/reports/daily/TEMPLATE.md`, then commit + push:

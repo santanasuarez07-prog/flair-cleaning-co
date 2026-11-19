@@ -15,7 +15,16 @@ Not a fit? Reply "no thanks" and I won't email again.
 
 ---
 
-## B1. Founding 5 (CHAMPION, week 1)
+> **v2 (2026-11-19):** B1 and B3 now share one body; only paragraph 1 (the hook)
+> differs. See `copy-review.md`. The v2 office version:
+>
+> **B1 hook:** "I'm putting together our first business route on [street] and saving 5 founding spots at a rate we'll lock for a year. Your office is one of the first I'm asking."
+> **B3 hook (tenants):** "Rainy season is when office windows look their worst: water spots, mud splashed up the lower panes, right where every patient looks on the way in."
+> **B3 hook (managers/owners):** "The first big storm is when the calls start: gutters spilling over front doors and water pooling against foundations."
+> **Shared body:** "I'm Santana, owner of Flair Cleaning Co here in Granite Bay. We've cleaned 100+ homes in town [and we're opening our first business route on (street)]. For offices we keep it simple: front glass on a set schedule before patients arrive, a text the day before, and before and after photos after every visit."
+> **Shared CTA:** "Worth a quick look? I can stop by and price it in 5 minutes."
+
+## B1. Founding 5 (CHAMPION, week 1; v1 text below)
 **What it tests:** scarcity + status (be one of the first 5)
 **Subject:** Founding spot on our Douglas Blvd route, [Name]
 > [Name],

@@ -13,3 +13,6 @@ before sending, result at day 14.
 ## Learnings (keep this list short and true)
 - Literal merge tags kill trust: always preview `example_text` before sending.
 - Keep the offer identical across a campaign's blast and follow-up.
+- In a cold email test, change **only the hook**; keep body and CTA identical or the result means nothing.
+- Pitch what the reader controls: tenants get glass, owners and managers get gutters.
+- Small asks ("Worth a quick look?") beat commitment asks ("Want one of the spots?"). *(hypothesis, to confirm with data)*
