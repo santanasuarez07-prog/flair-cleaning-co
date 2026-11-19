@@ -39,3 +39,13 @@ Jobs are added by telling Claude which jobs got completed (customer, price,
 day/time) — Claude cross-references Flyra for the customer/job details and
 appends the row. Nothing is added automatically from Flyra's schedule; a
 job only lands here once it's actually done.
+
+---
+
+# Marketing system (email, SMS, outbound)
+
+Claude acts as Flair's marketing & outbound operator. Start with
+[`CLAUDE.md`](CLAUDE.md) (operating rules + measurement loop), then
+[`marketing/playbook.md`](marketing/playbook.md). Every campaign is logged in
+[`marketing/campaign-log.csv`](marketing/campaign-log.csv) and lessons in
+[`marketing/experiments.md`](marketing/experiments.md).

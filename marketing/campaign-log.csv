@@ -1,0 +1,3 @@
+date_sent,campaign,channel,segment,audience_count,offer,hook,message,delivered,failed,replies,reply_rate,opt_outs,leads,booked_jobs,booked_revenue,revenue_per_msg,notes
+2026-11-06,Nov "in your area" blast,sms,all w/ mobile,70,$100 off,local + open spots,"Hey {first_name}, it's {company_name}. We're in your area this week and have open spots. Want your windows, gutters or solar panels cleaned for $100 off?",70,,,,,,,,,"baseline; results not attributed (no campaign tag)"
+2026-11-09,Nov blast follow-up,sms,non-repliers,59,$50 (conflicts w/ $100),Thanksgiving urgency,"Hey customer name, don't let that $50 slip away...",59,1+,,,,,,,,"BUG: merge tag sent literally as 'customer name'; offer mismatch; typo 'well'"
