@@ -60,3 +60,14 @@ CAN-SPAM-clean. It turns cold outreach into a warm follow-up.
 | Park Glen Management | Call / walk in | (916) 269-9288 · 6049 Douglas Blvd Ste 12 (5 min from us) |
 | Riverside Management | Call / walk in | 2250 Douglas Blvd Ste 160, Roseville |
 | Quarry Ponds Town Center | Walk in | Ask a tenant who the property manager is |
+| Folsom Historic District Assn | **Email (sent 11/19)** | info@historicfolsom.org · Gloria Cunningham gloria@historicfolsom.org · 916-985-7452 |
+| Loomis Basin Chamber | **Email (sent 11/19)** | manager@loomischamber.com · 916-652-7252 |
+| Silvercreek Association Mgmt | **Email (sent 11/19)** | info@sc-manage.com · (916) 877-7793 |
+| Century Management Co. | **Email (sent 11/19)** | Brian English benglish@centurymgmt.com · Keith Galliano kgalliano@centurymgmt.com · (916) 784-3666 |
+| Capital City Solar | **Email (sent 11/19)** | info@capitalcitysolar.com · (916) 782-3333 |
+| El Dorado Hills Chamber | **Email (sent 11/19)** | mary@eldoradohillschamber.org · (916) 933-1335 |
+| Auburn Chamber | Call | (530) 885-5616 |
+| The Management Trust - Folsom | Call | 916-985-3633 |
+| Century 21 Select (Roseville) | Call | (916) 786-2121, managing broker Phil Boren |
+| SunCal Real Estate Group | Call | 916-788-9700 |
+| Kodiak Solar | Skip for now | listing says possibly closed |
