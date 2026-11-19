@@ -81,6 +81,14 @@ current champion (hook, offer, CTA, length, send time, channel).
   (send at 9/10 or better). After each rewrite or test result, log what was wrong, what changed
   and what to watch, then apply those lessons to the next batch.
 
+## Outbound CRM (Google Sheet)
+Live CRM: https://docs.google.com/spreadsheets/d/1zwJgMdImGhk7FKVPZlMYshPuRLEniohEZKhemA9G1ww/edit
+(see `marketing/crm/README.md`). Prospects tab = every business + status; Outreach Log = one row
+per email/call/walk-in; Dashboard = live formulas. Without the Google Sheets connector, Claude can
+only read a sample of it (Drive), so the daily report still counts sends from Gmail and logs them in
+`marketing/outbound/cold-email-tests.csv`. With the Sheets connector on, also append each send to the
+Outreach Log and update the prospect's Status in the Sheet.
+
 ## Daily report (runs every evening, 6:43 PM Pacific)
 Write `marketing/reports/daily/YYYY-MM-DD.md` from `marketing/reports/daily/TEMPLATE.md`, then commit + push:
 1. **Cold email (Gmail, contact@flaircleaningcompany.com):** every cold email carries the footer
