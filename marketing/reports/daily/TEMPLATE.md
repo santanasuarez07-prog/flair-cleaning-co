@@ -11,7 +11,7 @@
 | Variant | Sent | Replies | Reply rate | Booked | Status |
 |---|---|---|---|---|---|
 | B1 Founding 5 | | | | | champion |
-| B2 Audition | | | | | challenger |
+| B3 Storm Season | | | | | challenger |
 
 Targets: reply > 6% · book > 2%
 

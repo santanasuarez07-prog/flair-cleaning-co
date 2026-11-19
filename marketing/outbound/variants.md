@@ -31,7 +31,7 @@ Not a fit? Reply "no thanks" and I won't email again.
 >
 > Want one of the spots?
 
-## B2. The Audition (challenger, week 1)
+## B2. The Audition (on the bench, not in the week 1 test)
 **What it tests:** the **offer** (a free first clean instead of a locked rate)
 **Subject:** Let us audition for [Business]
 > [Name],
@@ -49,7 +49,7 @@ Not a fit? Reply "no thanks" and I won't email again.
 *Cost check: a free front-glass clean is about 20 to 30 minutes of a tech's time. Only offer
 it if you're happy to give it.*
 
-## B3. Storm Season (week 2 challenger)
+## B3. Storm Season (CHALLENGER, week 1)
 **What it tests:** the **hook** (seasonal problem first, offer second)
 **Subject:** Before the next storm hits [Business]
 > [Name],
@@ -115,8 +115,8 @@ Same body as B1, but end with:
 ## Test schedule
 | Week | Champion | Challenger | Variable | Sends (each) |
 |---|---|---|---|---|
-| 1 (Granite Bay) | B1 Founding 5 | B2 Audition | offer | 25 / 25 |
-| 2 (GB + Rocklin) | winner wk1 | B3 Storm or B4 Three-Liner | hook / length | 25 / 25 |
+| 1 (Granite Bay) | B1 Founding 5 | B3 Storm Season | hook (scarcity vs. seasonal problem) | 25 / 25 |
+| 2 (GB + Rocklin) | winner wk1 | B4 Three-Liner or B2 Audition | length / offer | 25 / 25 |
 | 3 (Loomis + Folsom) | winner wk2 | B5 Photo Proof or B6 Question CTA | trust / CTA | 25 / 25 |
 | 4 (EDH + Auburn) | winner wk3 | subject-line test | subject | 25 / 25 |
 
