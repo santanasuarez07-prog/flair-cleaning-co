@@ -138,13 +138,12 @@ Not a fit? Reply "no thanks" and I won't email again.
 > **Your first listing gets a free screen clean** so you can see the work.
 > Want our listing-prep price sheet?
 
-### Follow-ups (same for every segment)
-- **Day 3:** "re: [subject]". One line: *"Just floating this up. Want me to
-  [stop by Thursday / walk the property]?"*
-- **Day 7:** send **one before/after photo** with *"Here's a job we did near
-  you last week. Happy to do the same for [Business]."*
-- **Day 12, breakup:** *"I haven't heard back, so I'll close your file. If
-  [windows/gutters] come up, reply and I'll get you a price same day."*
+### Follow-ups
+Max 2, and each must add value (no "just bumping this"). Use the value and
+social-proof + urgency follow-ups in `cold-email-system.md` (Step 3).
+
+**Testing:** run these templates as angles A/B/C with frameworks F1 to F4 from
+`cold-email-system.md`. Send 50 by hand in Granite Bay first.
 
 ---
 

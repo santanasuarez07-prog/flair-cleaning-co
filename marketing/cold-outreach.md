@@ -1,5 +1,9 @@
 # Cold outreach (B2B)
 
+> **Updated rules:** `outbound/cold-email-system.md` wins over this file:
+> 3 emails max (first + 2 value follow-ups), one angle per test, manual sends first.
+> The 4-touch sequences below are kept for reference; drop E3/E4, or switch them to a walk-in or call.
+
 Channel: **email + phone only** (no cold SMS; TCPA). Track prospects in a
 Flyra pipeline "B2B Outreach" (to create on approval) with stages:
 `Researched → Contacted → Replied → Walkthrough/Quote → Won → Lost/Not now`.

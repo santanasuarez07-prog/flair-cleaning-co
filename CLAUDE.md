@@ -68,6 +68,15 @@ Then write the lesson in `marketing/experiments.md` (what we tested, result,
 what we do next). Every new campaign should test **one** variable vs. the
 current champion (hook, offer, CTA, length, send time, channel).
 
+## Cold email rules (see marketing/outbound/cold-email-system.md)
+- Test **emotional angles** (A Neighbor / B Pro / C Best Results), one per batch, not generic subject lines.
+- Every cold email references something **real** about that business. Never fabricate
+  forwards, observations, numbers or "spots left".
+- First email + **2 follow-ups max**, each adding value, proof or real urgency. Then switch channel.
+- Manual sends first (50 in Granite Bay), log in `marketing/outbound/cold-email-tests.csv`.
+  Targets: open > 60%, reply > 6%, book > 2%. New script every 2 weeks.
+- Proofread every email; a typo costs trust.
+
 ## Getting better (creative engine)
 - Rotate hooks: local/seasonal ("first big rain"), neighbor proof ("we just did
   3 homes on your street"), loss aversion (gutter damage, solar output),
