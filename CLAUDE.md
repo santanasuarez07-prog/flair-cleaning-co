@@ -81,6 +81,16 @@ current champion (hook, offer, CTA, length, send time, channel).
   (send at 9/10 or better). After each rewrite or test result, log what was wrong, what changed
   and what to watch, then apply those lessons to the next batch.
 
+## Cold email v3 rules (from Sellbird, see marketing/outbound/sellbird-lessons.md)
+- **Run `python3 marketing/outbound/lint_email.py --touch N --subject ... --body-file ...` on every
+  cold email before sending. Send only on PASS** (touch 3 may be slightly long).
+- Email 1: 25 to 45 words, starts with them, one idea, one offer-style question ("Want a price…?").
+  Lowercase 2 to 5 word subjects. No "worth a quick…", bullets, dashes or parentheses.
+- Follow-ups: new angle, ≤ 50 words; breakup ≤ 30. ~6 touches over 14 to 28 days across email, call, walk-in.
+- No emails on weekends; schedule FU1/FU2 on weekdays.
+- Replies: classify (brush-off / condition / smokescreen / genuine), LAARC, one attempt, "not interested" is final.
+- Keep a champion and a challenger running at all times; new challenger every 2 weeks.
+
 ## Outreach autopilot (since 2026-11-19)
 Santana: "outreach, I give you all permissions and don't stop till my calendar is full, also offer pressure washing."
 - Scheduled task "Flair daily outreach until calendar is full" runs weekdays 8:47 AM Pacific.
