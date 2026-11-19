@@ -1,0 +1,19 @@
+id,business,segment,city,address,phone,contact_route,status,first_touch,last_touch,next_step,reply,outcome,value_est,notes
+1,Clark Simson Miller,HOA mgmt,Roseville,,,website proposal form,researched,,,send E1,,,,verify contact
+2,FirstService Residential (Sun City Roseville),HOA mgmt,Roseville / Gold River,,,NorCal office; ask for community manager,researched,,,send E1,,,,large national firm
+3,CID Consortium,HOA mgmt,Roseville,,,website,researched,,,send E1,,,,
+4,Riverside Management & Financial Services,HOA mgmt,Roseville,,,website,researched,,,send E1,,,,manages a Granite Bay association
+5,Park Glen Management,HOA mgmt,Granite Bay,,,website/phone,researched,,,send E1,,,,local
+6,Capital City Solar,solar partner,Roseville,111 Derek Place,,website,researched,,,send E1,,,,
+7,Citadel Roofing & Solar,solar partner,Roseville,,,website,researched,,,send E1 (roof version),,,,also roofing
+8,Kodiak Solar,solar partner,Roseville,8825 Washington Blvd #100,,website,researched,,,send E1,,,,
+9,Nationwide Sun,solar partner,Rocklin,,,website,researched,,,send E1,,,,
+10,Hooked On Solar,solar partner,Rocklin,,,website,researched,,,send E1,,,,
+11,Coldwell Banker Roseville-Granite Bay,realtor,Roseville,2200 Douglas Blvd Ste B200,(916) 786-4600,call office manager,researched,,,call for team meeting,,,,
+12,Windermere Signature Properties,realtor,Roseville,2220 Douglas Blvd Ste 100,(916) 784-1500,call office manager,researched,,,call for team meeting,,,,
+13,Mimi Nassif Luxury Estates,realtor,Granite Bay,6085 Douglas Blvd #700,916-612-7772,call/email,researched,,,call + luxury email,,,,
+14,Granite Bay Real Estate Inc,realtor,Granite Bay,6049 Douglas Blvd Ste 25,,walk-in,researched,,,walk in,,,,
+15,Quarry Ponds Town Center (property mgr),storefront center,Granite Bay,5550 Douglas Blvd,,center website / leasing,researched,,,send E1,,,,
+16,Peet's Coffee (Quarry Ponds),storefront,Granite Bay,5550 Douglas Blvd,,walk-in,researched,,,walk in,,,,chain: may need corporate vendor approval
+17,Oak Leaf Cafe / Capitol Cellars (Quarry Ponds),storefront,Granite Bay,5550 Douglas Blvd,,walk-in,researched,,,walk in,,,,
+18,Granite Bay Town Center tenants (Ace Hardware anchor),storefront center,Granite Bay,8731-8799 Auburn Folsom Rd,,walk-in,researched,,,walk in,,,,
