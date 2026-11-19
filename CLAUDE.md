@@ -81,6 +81,15 @@ current champion (hook, offer, CTA, length, send time, channel).
   (send at 9/10 or better). After each rewrite or test result, log what was wrong, what changed
   and what to watch, then apply those lessons to the next batch.
 
+## Outreach autopilot (since 2026-11-19)
+Santana: "outreach, I give you all permissions and don't stop till my calendar is full, also offer pressure washing."
+- Scheduled task "Flair daily outreach until calendar is full" runs weekdays 8:47 AM Pacific.
+- **Capacity input:** "full" = 3 non-cancelled jobs on every weekday for the next 10 business days (edit this number if crews change).
+- **Daily cold email limit:** week of Nov 19 = 10/day · Nov 30 = 15 · Dec 7 = 20-25 · Dec 14+ = 30 max per inbox.
+- Mention pressure washing (driveways, walkways, house wash) alongside windows and gutters.
+- Blanket permission does NOT override: no cold texts to businesses, no guessed emails, no invented proof or prices,
+  2 weeks between customer SMS campaigns, no buying SMS credits or charging cards without asking.
+
 ## Outbound CRM (Google Sheet)
 Live CRM: https://docs.google.com/spreadsheets/d/1zwJgMdImGhk7FKVPZlMYshPuRLEniohEZKhemA9G1ww/edit
 (see `marketing/crm/README.md`). Prospects tab = every business + status; Outreach Log = one row

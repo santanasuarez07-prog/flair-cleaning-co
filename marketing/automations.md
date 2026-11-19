@@ -9,7 +9,7 @@ All created **switched OFF** on 2026-11-19. Turn on only after owner approval
 | MKT · Post-Job Referral → Cross-sell → Rebook | `333d4aa7-143e-4da7-a87d-1d5408811545` | job.completed | SMS+email d4 referral → email d49 cross-sell → SMS+email d154 rebook | OFF |
 | MKT · Win-back (not serviced 180+ days) | `1c822217-6244-47d2-bb88-d193bac52d4d` | weekly Tue 10:15, 25 customers per batch | SMS+email → SMS d4 (free add-on) | OFF |
 | MKT · Quoted, Not Booked (rescue) | `2addbeb8-4124-4b94-aca3-11249b9797c3` | lead idle 72h in "Quoted No Cleaning" | SMS+email → SMS d5 → move to "No Response" d15 | OFF |
-| MKT · Campaign Reply Alert | `f7320317-1b18-4de0-9c3c-46ede9a981f3` | sms_blast.replied | notifies admins | OFF |
+| MKT · Campaign Reply Alert | `f7320317-1b18-4de0-9c3c-46ede9a981f3` | sms_blast.replied | notifies admins | **ON** (2026-11-19) |
 
 All stop when the person replies (except the alert). Edit copy in Flyra or
 ask Claude; keep this table in sync.
