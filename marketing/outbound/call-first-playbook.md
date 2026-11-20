@@ -71,3 +71,12 @@ CAN-SPAM-clean. It turns cold outreach into a warm follow-up.
 | Century 21 Select (Roseville) | Call | (916) 786-2121, managing broker Phil Boren |
 | SunCal Real Estate Group | Call | 916-788-9700 |
 | Kodiak Solar | Skip for now | listing says possibly closed |
+| Folsom Lake Shopping Center | **Email (sent 11/20)** | Graham Clemons gclemons@tricommercial.com · 916.677.8182 |
+| Nationwide Sun | **Email (sent 11/20)** | info@nationwidesun.com · (916) 708-7445 |
+| Roseville Area Chamber | Skip for now | chambers want paid membership (Loomis lesson) · 916-783-8136 |
+| Stanford Ranch Village, 2341 Sunset Blvd (Rocklin) | Call | broker Kevin Soares 916-666-6277 |
+| Rocklin Park Plaza, 2164 Sunset Blvd | Call | broker Mindee Menigoz 916-928-3800 x1002 |
+| Sunset Plaza, Pacific St (Rocklin) | Call | broker Sean Gallinger 916-751-3604 |
+| Granite Bay Village + Sunset Park (Ethan Conrad Properties) | Call | 916-779-1000, ask for Race Merritt |
+| 3883 Taylor Rd (Loomis) | Call | broker Marc Guillon, Gravitas CRE 916-659-8277 |
+| Utopia Management (Roseville commercial) | Call | (916) 246-1111 |
